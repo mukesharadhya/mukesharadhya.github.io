@@ -1,4 +1,4 @@
-# my-portfolio
+# mukesharadhya.github.io
 
 My personal portfolio website, built with plain HTML, CSS and JavaScript.
 
@@ -22,4 +22,4 @@ Colors are defined at the top of `style.css` (`--accent` changes the main color)
 
 1. Push to GitHub.
 2. Go to **Settings → Pages**, set source to the `main` branch, root folder.
-3. Your site will be live at `https://mukesharadhya.github.io/my-portfolio/`.
+3. Your site will be live at `https://mukesharadhya.github.io/`.
